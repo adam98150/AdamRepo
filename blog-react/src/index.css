@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+h3, p {
+  opacity: 0.75;
+}
+
+.container {
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  padding: 25px;
+}
+
+i {
+  float: right;
+}
+
+.row {
+  margin-bottom: 10px;
+}
